@@ -44,7 +44,7 @@ function Header({ user, loading }) {
         header {
           padding: 0.2rem;
           color: #fff;
-          background-color: #333;
+          background-image: linear-gradient(to right, #2193b0 , #6dd5ed);;
         }
         nav {
           max-width: 42rem;
